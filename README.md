@@ -10,10 +10,10 @@ MFKit expects monomer SMILES strings to contain exactly two polymerization sites
 
 If you use MFKit in your research, please cite the following paper:
 
-Gleb Averochkin, Ivan Zlobin, Ivan Bespalov, Eugeny Alexandrov,  
-Machine learning with physically grounded, interpretable descriptors for polymer property prediction and monomer design,  
-Chemical Engineering Science, Volume 328, 2026, 123732.  
-https://doi.org/10.1016/j.ces.2026.123732
+Gleb Averochkin, Yulia Kirpal, Alexander Khina, et al.
+Predicting Glass Transition Temperature of Polyimide Homopolymers and Copolymers Using Interpretable QSPR-Based Machine Learning: The MFKit Framework.  
+ChemRxiv. 15 October 2026.
+https://doi.org/10.26434/chemrxiv.15010512/v1
 
 ## Features
 
